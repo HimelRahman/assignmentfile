@@ -1,0 +1,9 @@
+E:\Address\Boisearch\Boisearch\bin\Debug\Boisearch.exe.config
+E:\Address\Boisearch\Boisearch\bin\Debug\Boisearch.exe
+E:\Address\Boisearch\Boisearch\bin\Debug\Boisearch.pdb
+E:\Address\Boisearch\Boisearch\obj\Debug\Boisearch.csprojResolveAssemblyReference.cache
+E:\Address\Boisearch\Boisearch\obj\Debug\Boisearch.Form1.resources
+E:\Address\Boisearch\Boisearch\obj\Debug\Boisearch.Properties.Resources.resources
+E:\Address\Boisearch\Boisearch\obj\Debug\Boisearch.csproj.GenerateResource.Cache
+E:\Address\Boisearch\Boisearch\obj\Debug\Boisearch.exe
+E:\Address\Boisearch\Boisearch\obj\Debug\Boisearch.pdb
