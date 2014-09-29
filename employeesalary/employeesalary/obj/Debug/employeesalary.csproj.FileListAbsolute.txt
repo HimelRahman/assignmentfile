@@ -1,0 +1,9 @@
+C:\Users\usar\Desktop\vs Cpde\employeesalary\employeesalary\bin\Debug\employeesalary.exe.config
+C:\Users\usar\Desktop\vs Cpde\employeesalary\employeesalary\bin\Debug\employeesalary.exe
+C:\Users\usar\Desktop\vs Cpde\employeesalary\employeesalary\bin\Debug\employeesalary.pdb
+C:\Users\usar\Desktop\vs Cpde\employeesalary\employeesalary\obj\Debug\employeesalary.csprojResolveAssemblyReference.cache
+C:\Users\usar\Desktop\vs Cpde\employeesalary\employeesalary\obj\Debug\employeesalary.Form1.resources
+C:\Users\usar\Desktop\vs Cpde\employeesalary\employeesalary\obj\Debug\employeesalary.Properties.Resources.resources
+C:\Users\usar\Desktop\vs Cpde\employeesalary\employeesalary\obj\Debug\employeesalary.csproj.GenerateResource.Cache
+C:\Users\usar\Desktop\vs Cpde\employeesalary\employeesalary\obj\Debug\employeesalary.exe
+C:\Users\usar\Desktop\vs Cpde\employeesalary\employeesalary\obj\Debug\employeesalary.pdb
