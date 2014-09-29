@@ -1,0 +1,9 @@
+E:\Address\personalinfoApp\personalinfoApp\bin\Debug\personalinfoApp.exe.config
+E:\Address\personalinfoApp\personalinfoApp\bin\Debug\personalinfoApp.exe
+E:\Address\personalinfoApp\personalinfoApp\bin\Debug\personalinfoApp.pdb
+E:\Address\personalinfoApp\personalinfoApp\obj\Debug\personalinfoApp.csprojResolveAssemblyReference.cache
+E:\Address\personalinfoApp\personalinfoApp\obj\Debug\personalinfoApp.Form1.resources
+E:\Address\personalinfoApp\personalinfoApp\obj\Debug\personalinfoApp.Properties.Resources.resources
+E:\Address\personalinfoApp\personalinfoApp\obj\Debug\personalinfoApp.csproj.GenerateResource.Cache
+E:\Address\personalinfoApp\personalinfoApp\obj\Debug\personalinfoApp.exe
+E:\Address\personalinfoApp\personalinfoApp\obj\Debug\personalinfoApp.pdb
