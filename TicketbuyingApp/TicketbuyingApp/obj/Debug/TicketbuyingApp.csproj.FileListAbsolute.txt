@@ -1,0 +1,9 @@
+E:\Address\TicketbuyingApp\TicketbuyingApp\bin\Debug\TicketbuyingApp.exe.config
+E:\Address\TicketbuyingApp\TicketbuyingApp\bin\Debug\TicketbuyingApp.exe
+E:\Address\TicketbuyingApp\TicketbuyingApp\bin\Debug\TicketbuyingApp.pdb
+E:\Address\TicketbuyingApp\TicketbuyingApp\obj\Debug\TicketbuyingApp.csprojResolveAssemblyReference.cache
+E:\Address\TicketbuyingApp\TicketbuyingApp\obj\Debug\TicketbuyingApp.TicketbuyingFrom.resources
+E:\Address\TicketbuyingApp\TicketbuyingApp\obj\Debug\TicketbuyingApp.Properties.Resources.resources
+E:\Address\TicketbuyingApp\TicketbuyingApp\obj\Debug\TicketbuyingApp.csproj.GenerateResource.Cache
+E:\Address\TicketbuyingApp\TicketbuyingApp\obj\Debug\TicketbuyingApp.exe
+E:\Address\TicketbuyingApp\TicketbuyingApp\obj\Debug\TicketbuyingApp.pdb
