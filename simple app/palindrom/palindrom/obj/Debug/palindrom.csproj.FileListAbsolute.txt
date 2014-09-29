@@ -1,0 +1,9 @@
+E:\Address\palindrom\palindrom\bin\Debug\palindrom.exe.config
+E:\Address\palindrom\palindrom\bin\Debug\palindrom.exe
+E:\Address\palindrom\palindrom\bin\Debug\palindrom.pdb
+E:\Address\palindrom\palindrom\obj\Debug\palindrom.csprojResolveAssemblyReference.cache
+E:\Address\palindrom\palindrom\obj\Debug\palindrom.PalindromcheckUI.resources
+E:\Address\palindrom\palindrom\obj\Debug\palindrom.Properties.Resources.resources
+E:\Address\palindrom\palindrom\obj\Debug\palindrom.csproj.GenerateResource.Cache
+E:\Address\palindrom\palindrom\obj\Debug\palindrom.exe
+E:\Address\palindrom\palindrom\obj\Debug\palindrom.pdb

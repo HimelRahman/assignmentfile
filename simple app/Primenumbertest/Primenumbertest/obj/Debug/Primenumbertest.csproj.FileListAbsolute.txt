@@ -1,0 +1,8 @@
+E:\Address\Primenumbertest\Primenumbertest\bin\Debug\Primenumbertest.exe.config
+E:\Address\Primenumbertest\Primenumbertest\bin\Debug\Primenumbertest.exe
+E:\Address\Primenumbertest\Primenumbertest\bin\Debug\Primenumbertest.pdb
+E:\Address\Primenumbertest\Primenumbertest\obj\Debug\Primenumbertest.PrimenumberUI.resources
+E:\Address\Primenumbertest\Primenumbertest\obj\Debug\Primenumbertest.Properties.Resources.resources
+E:\Address\Primenumbertest\Primenumbertest\obj\Debug\Primenumbertest.csproj.GenerateResource.Cache
+E:\Address\Primenumbertest\Primenumbertest\obj\Debug\Primenumbertest.exe
+E:\Address\Primenumbertest\Primenumbertest\obj\Debug\Primenumbertest.pdb
