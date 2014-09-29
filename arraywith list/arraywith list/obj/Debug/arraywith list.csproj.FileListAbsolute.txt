@@ -1,0 +1,12 @@
+C:\Users\usar\Desktop\vs Cpde\arraywith list\arraywith list\bin\Debug\arraywith list.exe.config
+C:\Users\usar\Desktop\vs Cpde\arraywith list\arraywith list\bin\Debug\arraywith list.exe
+C:\Users\usar\Desktop\vs Cpde\arraywith list\arraywith list\bin\Debug\arraywith list.pdb
+C:\Users\usar\Desktop\vs Cpde\arraywith list\arraywith list\obj\Debug\arraywith list.csprojResolveAssemblyReference.cache
+C:\Users\usar\Desktop\vs Cpde\arraywith list\arraywith list\obj\Debug\arraywith_list.Form1.resources
+C:\Users\usar\Desktop\vs Cpde\arraywith list\arraywith list\obj\Debug\arraywith_list.Properties.Resources.resources
+C:\Users\usar\Desktop\vs Cpde\arraywith list\arraywith list\obj\Debug\arraywith list.csproj.GenerateResource.Cache
+C:\Users\usar\Desktop\vs Cpde\arraywith list\arraywith list\obj\Debug\arraywith list.exe
+C:\Users\usar\Desktop\vs Cpde\arraywith list\arraywith list\obj\Debug\arraywith list.pdb
+C:\Users\usar\Desktop\New folder\arraywith list\arraywith list\bin\Debug\arraywith list.exe.config
+C:\Users\usar\Desktop\New folder\arraywith list\arraywith list\obj\Debug\arraywith list.exe
+C:\Users\usar\Desktop\New folder\arraywith list\arraywith list\obj\Debug\arraywith list.pdb
