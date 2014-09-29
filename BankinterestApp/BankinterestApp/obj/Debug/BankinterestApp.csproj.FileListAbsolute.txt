@@ -1,0 +1,9 @@
+E:\Address\BankinterestApp\BankinterestApp\bin\Debug\BankinterestApp.exe.config
+E:\Address\BankinterestApp\BankinterestApp\bin\Debug\BankinterestApp.exe
+E:\Address\BankinterestApp\BankinterestApp\bin\Debug\BankinterestApp.pdb
+E:\Address\BankinterestApp\BankinterestApp\obj\Debug\BankinterestApp.csprojResolveAssemblyReference.cache
+E:\Address\BankinterestApp\BankinterestApp\obj\Debug\BankinterestApp.InterestccalculationUI.resources
+E:\Address\BankinterestApp\BankinterestApp\obj\Debug\BankinterestApp.Properties.Resources.resources
+E:\Address\BankinterestApp\BankinterestApp\obj\Debug\BankinterestApp.csproj.GenerateResource.Cache
+E:\Address\BankinterestApp\BankinterestApp\obj\Debug\BankinterestApp.exe
+E:\Address\BankinterestApp\BankinterestApp\obj\Debug\BankinterestApp.pdb
