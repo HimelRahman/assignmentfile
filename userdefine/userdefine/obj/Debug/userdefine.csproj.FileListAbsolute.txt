@@ -1,0 +1,9 @@
+C:\Users\usar\Desktop\vs Cpde\userdefine\userdefine\bin\Debug\userdefine.exe.config
+C:\Users\usar\Desktop\vs Cpde\userdefine\userdefine\obj\Debug\userdefine.csprojResolveAssemblyReference.cache
+C:\Users\usar\Desktop\vs Cpde\userdefine\userdefine\obj\Debug\userdefine.Form1.resources
+C:\Users\usar\Desktop\vs Cpde\userdefine\userdefine\obj\Debug\userdefine.Properties.Resources.resources
+C:\Users\usar\Desktop\vs Cpde\userdefine\userdefine\obj\Debug\userdefine.csproj.GenerateResource.Cache
+C:\Users\usar\Desktop\vs Cpde\userdefine\userdefine\bin\Debug\userdefine.exe
+C:\Users\usar\Desktop\vs Cpde\userdefine\userdefine\bin\Debug\userdefine.pdb
+C:\Users\usar\Desktop\vs Cpde\userdefine\userdefine\obj\Debug\userdefine.exe
+C:\Users\usar\Desktop\vs Cpde\userdefine\userdefine\obj\Debug\userdefine.pdb

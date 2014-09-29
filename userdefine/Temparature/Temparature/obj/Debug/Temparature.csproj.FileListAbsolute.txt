@@ -1,0 +1,9 @@
+E:\Address\Temparature\Temparature\bin\Debug\Temparature.exe.config
+E:\Address\Temparature\Temparature\bin\Debug\Temparature.exe
+E:\Address\Temparature\Temparature\bin\Debug\Temparature.pdb
+E:\Address\Temparature\Temparature\obj\Debug\Temparature.csprojResolveAssemblyReference.cache
+E:\Address\Temparature\Temparature\obj\Debug\Temparature.TemparatureUI.resources
+E:\Address\Temparature\Temparature\obj\Debug\Temparature.Properties.Resources.resources
+E:\Address\Temparature\Temparature\obj\Debug\Temparature.csproj.GenerateResource.Cache
+E:\Address\Temparature\Temparature\obj\Debug\Temparature.exe
+E:\Address\Temparature\Temparature\obj\Debug\Temparature.pdb
