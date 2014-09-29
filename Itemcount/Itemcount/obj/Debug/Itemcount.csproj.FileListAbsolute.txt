@@ -1,0 +1,9 @@
+E:\Address\Itemcount\Itemcount\bin\Debug\Itemcount.exe.config
+E:\Address\Itemcount\Itemcount\bin\Debug\Itemcount.exe
+E:\Address\Itemcount\Itemcount\bin\Debug\Itemcount.pdb
+E:\Address\Itemcount\Itemcount\obj\Debug\Itemcount.csprojResolveAssemblyReference.cache
+E:\Address\Itemcount\Itemcount\obj\Debug\Itemcount.ItemCountUI.resources
+E:\Address\Itemcount\Itemcount\obj\Debug\Itemcount.Properties.Resources.resources
+E:\Address\Itemcount\Itemcount\obj\Debug\Itemcount.csproj.GenerateResource.Cache
+E:\Address\Itemcount\Itemcount\obj\Debug\Itemcount.exe
+E:\Address\Itemcount\Itemcount\obj\Debug\Itemcount.pdb
