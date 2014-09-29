@@ -1,0 +1,9 @@
+C:\Users\usar\Desktop\vs Cpde\employeeindecs\employeeindecs\bin\Debug\employeeindecs.exe.config
+C:\Users\usar\Desktop\vs Cpde\employeeindecs\employeeindecs\bin\Debug\employeeindecs.exe
+C:\Users\usar\Desktop\vs Cpde\employeeindecs\employeeindecs\bin\Debug\employeeindecs.pdb
+C:\Users\usar\Desktop\vs Cpde\employeeindecs\employeeindecs\obj\Debug\employeeindecs.csprojResolveAssemblyReference.cache
+C:\Users\usar\Desktop\vs Cpde\employeeindecs\employeeindecs\obj\Debug\employeeindecs.Form1.resources
+C:\Users\usar\Desktop\vs Cpde\employeeindecs\employeeindecs\obj\Debug\employeeindecs.Properties.Resources.resources
+C:\Users\usar\Desktop\vs Cpde\employeeindecs\employeeindecs\obj\Debug\employeeindecs.csproj.GenerateResource.Cache
+C:\Users\usar\Desktop\vs Cpde\employeeindecs\employeeindecs\obj\Debug\employeeindecs.exe
+C:\Users\usar\Desktop\vs Cpde\employeeindecs\employeeindecs\obj\Debug\employeeindecs.pdb
